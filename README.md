@@ -155,12 +155,6 @@ fix-after-gen.bat
 - [AI 应用手册](https://help.jeecg.com/aigc)
 - [SpringCloud 微服务](https://help.jeecg.com/java/springcloud/switchcloud/monomer)
 
-## 开发说明
-
-- 主分支：`master`
-- 开发分支：`development`
-- 提交信息格式：`feat:` (新功能) / `fix:` (修复) / `docs:` (文档) / `refactor:` (重构)
-
 ## License
 
 [Apache License 2.0](LICENSE)
